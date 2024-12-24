@@ -33,4 +33,4 @@
 - Concepts such as EDA, p-value, VIF, RFE were used and model building was done using statsmodels library
 
 ## Contact
-Created by [@shashidharpattar007] - feel free to contact me!
+Created by [@shashidharpattar007]  [Shashidhar Pattar](https://github.com/shashidharpattar007) - feel free to contact me!
